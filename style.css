@@ -1,0 +1,90 @@
+body {
+    background-color:cadetblue;
+    font-family:Times New Roman;
+    max-width: 900px;
+    margin: auto;
+    color: black;
+}
+
+#tile, .subtitle, .post, .post_content {
+    color: black;
+}
+
+#title {
+    font-size: 60px;
+    text-transform: uppercase;  
+}
+.subtitle {
+    font-style: italic;
+}
+.post {
+    background-color:rgba(37, 134, 136, 0.432);
+    padding: 20px;
+    border: 1px solid #505050;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    border-radius: 20px;
+}
+.post_content {
+    font-size: 25px;
+    font-style: italic;
+    margin-top: 10px;
+    margin-left: 25%;
+    margin-bottom: 10px;
+    margin-right: 25%;
+}
+.photo {
+    margin-left: 250px;
+    
+}
+
+.b {
+    margin-left: 25%;
+}
+
+.c {
+    margin-left: 35%;
+}
+
+.b1 {
+    background-color: cadetblue;
+}
+.t1 {
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+
+}
+
+.a1 {
+    background-color:rgb(37, 152, 156);
+    padding: 10px;
+    border: 1px solid #505050;
+    border-radius: 10px;
+}
+#plistal{
+    margin-left: 350px;
+    margin-top: 2%;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.lb {
+    margin-left: 300px;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.pp {
+    margin-top: 20px;
+    margin-left: 350px;
+}
+.fnn {
+    font-size: 23px;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
